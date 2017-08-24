@@ -1,0 +1,14 @@
+{
+  "name": "distributed_nodes",
+  "version": "1.0.0",
+  "description": "Create distributed system in nodeJS via websockets.",
+  "main": "distributed_nodes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike Situ (michael.o.situ@gmail.com)",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^3.1.0"
+  }
+}
